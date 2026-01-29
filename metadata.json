@@ -1,0 +1,9 @@
+{
+  "name": "Drawfree Studio",
+  "description": "The ultimate all-in-one art studio. Artistry Unleashed. Zero Barriers. Features advanced drawing tools, AI-powered assistance, and Old Money aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
